@@ -38,9 +38,9 @@ Là sinh viên cần tìm giáo trình "Nhập môn Công nghệ Thông tin" b�
 
 ### 4.1. Vì sao `filetype:` tiết kiệm thời gian hơn gõ "tải sách…"?
 
-* Gõ "tải sách…" khiến Google trả về đủ loại trang web, blog, quảng cáo; phải mở từng trang để kiểm tra.
-* `filetype:pdf` lọc sẵn đúng định dạng cần tìm, bấm vào là ra tài liệu ngay.
-* Kết hợp `site:` của trường nên file an toàn, ít nguy cơ dính mã độc hoặc bị bắt nạp thẻ.
+- Gõ "tải sách…": Google trả về đủ thứ như blog, quảng cáo, trang bắt nạp thẻ. Mình phải mở từng trang, đọc rồi mới biết có file hay không, dễ bị chuyển hướng hoặc tải nhầm file lạ.
+- Dùng filetype:pdf: Google chỉ trả về file PDF, nên bước "mở từng trang để kiểm tra" biến mất. Bấm vào kết quả là ra thẳng tài liệu.
+- Kết hợp site: của trường và dấu trừ (-): danh sách rút gọn còn vài kết quả đúng nguồn, ít nguy cơ mã độc.
 
 ### 4.2. Ảnh chụp 3 kết quả đầu tiên sau khi áp dụng "Combo toán tử"
 
